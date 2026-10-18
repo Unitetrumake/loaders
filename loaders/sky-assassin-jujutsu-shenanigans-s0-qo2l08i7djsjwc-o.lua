@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/sky-assassin-jujutsu-shenanigans-s0-qo2l08i7djsjwc.lua"))()
