@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/piano-rhythm-tiles-spam1-h8ntcf9rgwxtbr.lua"))()
