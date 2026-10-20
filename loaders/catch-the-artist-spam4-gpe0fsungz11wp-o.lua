@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/catch-the-artist-spam4-gpe0fsungz11wp.lua"))()
