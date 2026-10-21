@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/save-the-krusty-krab-spam5-56esaa70ih9104.lua"))()
