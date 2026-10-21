@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/tha-bronx-3-spam7-twiphur9iiz6b1.lua"))()
