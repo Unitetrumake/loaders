@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/2-player-guess-the-anime-character-spam1-xal420r7ijb5jt.lua"))()
