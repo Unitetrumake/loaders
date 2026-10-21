@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/upd-8-cvr-retro-spam5-6dj13cl5hhqiwy.lua"))()
