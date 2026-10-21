@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/build-and-conquer-v0-1-spam4-bzqxhsrohiftt9.lua"))()
