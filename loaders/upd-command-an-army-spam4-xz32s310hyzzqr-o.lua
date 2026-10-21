@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/upd-command-an-army-spam4-xz32s310hyzzqr.lua"))()
