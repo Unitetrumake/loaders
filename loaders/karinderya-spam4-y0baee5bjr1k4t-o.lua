@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/karinderya-spam4-y0baee5bjr1k4t.lua"))()
