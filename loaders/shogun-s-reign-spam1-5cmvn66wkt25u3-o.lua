@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/shogun-s-reign-spam1-5cmvn66wkt25u3.lua"))()
