@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/get-your-driver-s-license-spam5-0kavsq84kwlpsl.lua"))()
