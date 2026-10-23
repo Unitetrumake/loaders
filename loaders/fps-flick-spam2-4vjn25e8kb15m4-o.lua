@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/fps-flick-spam2-4vjn25e8kb15m4.lua"))()
