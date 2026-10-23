@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/prospecting-spam5-r5r2puq0l1fcba.lua"))()
