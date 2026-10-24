@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/sarab-spam7-wte9dpp6m9fk1b.lua"))()
