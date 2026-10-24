@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unitetrumake/loaders/main/loaders/arm-wrestle-simulator-spam7-l7p9nqoymdqj0p.lua"))()
